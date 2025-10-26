@@ -41,4 +41,5 @@ The following technologies were used:
 
 
 -After that, you can make use of it!
+
 ![Gameplay del Slime](./images/img_result.png)
