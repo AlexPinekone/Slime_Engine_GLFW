@@ -29,9 +29,16 @@ The following technologies were used:
 ## ⚙️ Installation
 
 -After cloning the repository, you must open the sln project and enter Proyect-> Properties
+
 -Inside, you must update the **Include** and **Library** directories to the **include** and **lib** folders respectively
+
 ![Install Configuration 1](./images/img_configuration_1.png)
+
+
 -Also, inside Linkers->Input you must add the **glfw3.lib** and **opengl32.lib** dependencies
+
 ![Install Configuration 2](./images/img_configuration_2.png)
+
+
 -After that, you can make use of it!
 ![Gameplay del Slime](./images/img_result.png)
