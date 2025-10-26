@@ -11,7 +11,7 @@
 - Basic lighting and shadow support
 - Death and respawn mechanics
 - Zenithal view
-- Demo game: *Slime Labyrinth* 🌀
+- Demo game: *The Mini Slime Labyrinth*
 
 ---
 
